@@ -1,4 +1,4 @@
-# my-chat-app
+# ai-chat-app
 # 🤖 GPT-Like AI Chat App (React + TypeScript + Node.js)
 
 This is a simple GPT-style AI chat application built using React, TypeScript, Vite on the frontend, and Node.js with Express on the backend. The AI logic is simulated with customizable mock responses (and easily extendable to use TensorFlow.js or OpenAI APIs).
