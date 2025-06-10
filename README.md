@@ -61,19 +61,17 @@ Request: { "message": "your message here" }
 Response: { "response": "AI reply here" }
 
 # Future Improvements
-# Integrate OpenAI GPT-4 API
+ Integrate OpenAI GPT-4 API
+ Use TensorFlow.js or AI.js for on-device AI
+ Save chat history
+ Add authentication
+ Improve UI with TailwindCSS or Material UI
 
-# Use TensorFlow.js or AI.js for on-device AI
+# Tech Stack
 
-# Save chat history
-
-👤 Add authentication
-
-# Improve UI with TailwindCSS or Material UI
-
-🛠 Tech Stack
-Frontend	Backend	AI Logic
-React + TS	Node.js + Express	Simple AI / TF.js
+| Frontend   | Backend           | AI Logic          |
+| ---------- | ----------------- | ----------------- |
+| React + TS | Node.js + Express | Simple AI / TF.js |
 
 ### License
 MIT License. Feel free to use and modify.
